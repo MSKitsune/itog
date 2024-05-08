@@ -34,4 +34,4 @@ string[] suitableStrings
 ```
 
 Блок-схема:
-![Блок-схема](Diagram.drawio)
+![Блок-схема](Diagram.drawio.png)
